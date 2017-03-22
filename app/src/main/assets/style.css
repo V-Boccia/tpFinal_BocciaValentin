@@ -1,0 +1,84 @@
+html, body {margin:0; padding:0}
+body {
+background-color:white;
+
+background-image:url(img/siteweb_intro_fond.jpg);
+margin:5px 15px 10px 15px;
+}
+h1 {
+font-family:georgia, serif;
+font-size:100%;
+color:olive;
+background-color:navy;
+text-align:center;
+}
+h2 {
+font-family:verdana, sans-serif;
+font-size:80%;
+color:black;
+background-color:transparent;
+text-align:left;
+}
+h3 {
+font-family:verdana, sans-serif;
+font-size:80%;
+color:black;
+background-color:transparent;
+text-align:center;
+}
+p {
+font-family:verdana, sans-serif;
+font-size:100%;
+color:black;
+background-color:transparent;
+text-align:left;
+margin-left:0;
+margin-right:0;
+}
+li {
+font-family:verdana, sans-serif;
+font-size:100%;
+color:black;
+background-color:transparent;
+text-align:left;
+margin-left:0;
+margin-right:0;
+}
+a:link {
+font-family:verdana, sans-serif;
+font-size:100%;
+color:black;
+background-color:transparent;
+text-decoration:underline;
+}
+a:visited {
+font-family:verdana, sans-serif;
+font-size:100%;
+color:green;
+background-color:transparent;
+text-decoration:underline;
+}
+a:hover {
+font-family:verdana, sans-serif;
+font-size:100%;
+color:blue;
+background-color:transparent;
+text-decoration:underline;
+}
+a:active, a:focus {
+font-family:verdana, sans-serif; font-size:100%; color:#20b2aa; background-color:transparent; text-decoration:underline; }
+table {
+border-color:#696969;
+border-style:outset;
+border-width:2px;
+}
+td {
+font-family:arial, sans-serif;
+font-size:100%;
+color:black;
+text-align:left;
+background-color:transparent;
+border-color:silver;
+border-style:solid;
+border-width:1px;
+}
