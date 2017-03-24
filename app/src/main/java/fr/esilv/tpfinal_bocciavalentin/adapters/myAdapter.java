@@ -23,16 +23,16 @@ public class myAdapter extends RecyclerView.Adapter<myAdapter.MyViewHolder> {
 
     private OnVideoytSelectedListener onContractSelectedListener;
     private final List<Pair<String, String>> characters = Arrays.asList(
-            Pair.create("Lyra Belacqua", "Brave, curious, and crafty, she has been prophesied by the witches to help the balance of life"),
-            Pair.create("Pantalaimon", "Lyra's daemon, nicknamed Pan."),
-            Pair.create("Roger Parslow", "Lyra's friends"),
-            Pair.create("Lord Asriel", "Lyra's uncle"),
-            Pair.create("Marisa Coulter", "Intelligent and beautiful, but extremely ruthless and callous."),
-            Pair.create("Iorek Byrnison", "Armoured bear, Rightful king of the panserbjørne. Reduced to a slave of the human village Trollesund."),
-            Pair.create("Serafina Pekkala", "Witch who closely follows Lyra on her travels."),
-            Pair.create("Lee Scoresby", "Texan aeronaut who transports Lyra in his balloon. Good friend with Iorek Byrnison."),
-            Pair.create("Ma Costa", "Gyptian woman whose son, Billy Costa is abducted by the \"Gobblers\"."),
-            Pair.create("John Faa", "The King of all gyptian people.")
+            Pair.create("Ariana Grande - Side To Side ft. Nicki Minaj", "Side To Side ft. Nicki Minaj (Official Video) Taken from the new album Dangerous Woman Download Now! http://republicrec.co/AriDangerousWoman Listen on"),
+            Pair.create("Ariana Grande - Break Free ft. Zedd", "Ariana Grande \\\"My Everything” available for download now http://smarturl.it/ArianaMyEvrythnDlxiT."),
+            Pair.create("Ariana Grande - Into You", "Into You (Official Video) Taken from the new album Dangerous Woman Download Now! http://republicrec.co/AriDangerousWoman Share/Stream"),
+            Pair.create("Jessie J, Ariana Grande, Nicki Minaj - Bang Bang ft. Ariana Grande, Nicki Minaj", "Get Jessie J + Ariana Grande + Nicki Minaj \\\"Bang Bang\\\" now! http://smarturl.it/JSJSweetTalkerdlxDA."),
+            Pair.create("Ariana Grande - Focus", "Focus (Official Video) Download Now! http://republicrec.co/ArianaGrandeFocus Share/Stream Ariana"),
+            Pair.create("Ariana Grande, The Weeknd - Love Me Harder", "description\": \"Love Me Harder available for download on the full album “My Everything” here: http://smarturl.it/ArianaMyEvrythnDlxDA Stream “Love Me Harder"),
+            Pair.create("Ariana Grande - Everyday ft. Future", "Music video by Ariana Grande performing Everyday ft. Future. © 2017 Republic Records, a division of UMG Recordings, Inc."),
+            Pair.create("Ariana Grande - Dangerous Woman", "Dangerous Woman Visual 1 Taken from the new album Dangerous Woman Download Now!"),
+            Pair.create("Ariana Grande - Problem ft. Iggy Azalea", "Problem available for download on the full album “My Everything” here: "),
+            Pair.create("Ariana Grande, The Weeknd - Love Me Harder", "Love Me Harder available for download on the full album “My Everything” here: ")
     );
 
 

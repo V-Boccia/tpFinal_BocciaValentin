@@ -24,6 +24,8 @@
             </intent-filter>
         </activity>
 
+        <activity android:name=".activities.affichageList"></activity>
+
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyAK7TNO8ZMix7VwsyKr8BzGwOdR6wcK72w" />
